@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">monitor</string>
+    <string name="server1">api</string>
+    <string name="server2">api-2</string>
+    <string name="server3">api-3</string>
+    <string name="server4">api-factory</string>
+    <string name="metrix1">disk.free</string>
+    <string name="metrix2">mem.free</string>
+    <string name="metrix3">avg_response</string>
+    <string name="metrix4">returnedps</string>
+</resources>
